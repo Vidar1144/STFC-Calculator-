@@ -1,6 +1,9 @@
 this is a calculator for the game star trek fleet command 
 its for the special money it has for its events 
 
+you also dont have to type out for example 10,000 you can just type 10k. its more in line with the game. 
+
+
 to use this script download a python idle and copy and paste or just open it with the idle. 
 https://www.python.org/downloads/ 
 thats a link for a python idle 
